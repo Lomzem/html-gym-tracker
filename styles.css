@@ -1,12 +1,5 @@
-/*
-#F1DEDE
-#BBACC1
-#80727B
-#909580
-#545643
- */
 body {
-    background: #80727B;
+    background: #211a1d;
     font: Montserrat;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
@@ -16,10 +9,19 @@ body {
 #wo-list {
     list-style: none;
     padding: 0;
-    margin: 0;
 }
 
 .wo-item {
-    background: #909580;
-    margin: 1px;
+    background: #8075ff;
+    border-radius: 5px;
+    color: #211a1d;
+    font-size: 150%;
+    text-align: center;
+    margin: 10px;
+    padding: 0px;
+    width: 15%;
+}
+
+.wo-data {
+    padding: 20px;
 }
